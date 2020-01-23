@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Belai Simak</string>
+
+    <string-array name="jurusan_array">
+        <item>Teknik Elektro</item>
+        <item>Teknik Mesin</item>
+        <item>Teknik Sipil</item>
+        <item>Administarasi Niaga</item>
+        <item>Teknik Kimia</item>
+        <item>Akuntansi</item>
+    </string-array>
+
+    <string-array name="prodi_array">
+        <item>D4 Teknik Komputer dan Jaringan</item>
+        <item>D4 Teknik Multimedia dan Jaringan</item>
+        <item>D3 Teknik Listrik</item>
+        <item>D4 Teknik Listrik</item>
+        <item>D4 Akuntansi</item>
+        <item>D4 Administrasi</item>
+    </string-array>
+
+</resources>

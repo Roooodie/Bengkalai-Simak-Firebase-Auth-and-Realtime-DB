@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1071958884218",
+    "firebase_url": "https://belai-simak.firebaseio.com",
+    "project_id": "belai-simak",
+    "storage_bucket": "belai-simak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071958884218:android:02789925f7790abacf60c3",
+        "android_client_info": {
+          "package_name": "com.senpai.belaisimak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071958884218-gs85jc3jqh23m68jh2qp2d0m637e4pdh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.senpai.belaisimak",
+            "certificate_hash": "51b9301dc9baf949fd9fac9df1fa5a06c0138725"
+          }
+        },
+        {
+          "client_id": "1071958884218-jhvoiis268grpes72n8hejhbjsufj8kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmF39qqWV9DisD0QC5q0NpzCzuT4inbcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071958884218-jhvoiis268grpes72n8hejhbjsufj8kf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
